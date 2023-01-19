@@ -1,0 +1,60 @@
+  .text-center{
+    text-align: center;
+  }
+  #text-sm{
+    font-size: small;
+  }
+  .edit{
+    right: 10px;
+  }
+  .delete{
+    right: 10px;
+  }
+  #customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+  }
+  
+  #customers td, #customers th {
+    font-size: small;
+    font-weight:normal;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  a.homepage{
+    color: #808080;
+    font-size: small;
+  }
+  a.homepage_right {
+    color: #979797;
+    font-size:x-small;
+    text-align: right;
+    float: right;
+  }
+  a.homepage_right2 {
+    color: #979797;
+    font-size:small;
+    text-align: right;
+    float: right;
+  }
+  a.right {
+    text-align: right;
+    float: right;
+  }
+
+
+
